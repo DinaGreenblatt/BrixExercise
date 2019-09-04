@@ -1,0 +1,7 @@
+C:\Users\Ruthie\source\repos\StringMatcher\bin\Debug\StringMatcher.exe.config
+C:\Users\Ruthie\source\repos\StringMatcher\bin\Debug\StringMatcher.exe
+C:\Users\Ruthie\source\repos\StringMatcher\bin\Debug\StringMatcher.pdb
+C:\Users\Ruthie\source\repos\StringMatcher\obj\Debug\StringMatcher.csprojAssemblyReference.cache
+C:\Users\Ruthie\source\repos\StringMatcher\obj\Debug\StringMatcher.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\source\repos\StringMatcher\obj\Debug\StringMatcher.exe
+C:\Users\Ruthie\source\repos\StringMatcher\obj\Debug\StringMatcher.pdb

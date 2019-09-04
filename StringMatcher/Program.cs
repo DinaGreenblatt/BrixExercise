@@ -30,8 +30,7 @@ namespace StringMatcher
 
                 }
                 reader.Close();
-            }
-            //input = new String();
+            }            
             while (true)
             {
                 while (string.IsNullOrEmpty(input) || input.Length != 5)

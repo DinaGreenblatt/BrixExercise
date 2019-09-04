@@ -1,0 +1,7 @@
+C:\Users\Ruthie\source\repos\Queue Manager\bin\Debug\Queue Manager.exe.config
+C:\Users\Ruthie\source\repos\Queue Manager\bin\Debug\Queue Manager.exe
+C:\Users\Ruthie\source\repos\Queue Manager\bin\Debug\Queue Manager.pdb
+C:\Users\Ruthie\source\repos\Queue Manager\obj\Debug\Queue Manager.csprojAssemblyReference.cache
+C:\Users\Ruthie\source\repos\Queue Manager\obj\Debug\Queue Manager.csproj.CoreCompileInputs.cache
+C:\Users\Ruthie\source\repos\Queue Manager\obj\Debug\Queue Manager.exe
+C:\Users\Ruthie\source\repos\Queue Manager\obj\Debug\Queue Manager.pdb
